@@ -1,5 +1,5 @@
 body {
-    width: 50%;
+    width: 80%;
     margin: auto;
 }
 
@@ -8,19 +8,12 @@ label {
     font-weight: bold;
 }
 
-input[type=email],
-[type=password],
-[type=submit] {
+input {
     width: 100%;
     padding: 20px;
     margin: 8px 0;
     box-sizing: border-box;
     font-size: 1.5rem;
-}
-
-#form-div {
-    width: 50%;
-    margin: auto;
 }
 
 table {
